@@ -1,0 +1,12 @@
+a{
+    text-decoration: none;
+}
+.bg-footer
+{
+    background-color:#24272e;
+color:white;
+}
+.nav-item:hover,.dropdown:hover .dropbtn
+{
+background-color: orangered;
+}
